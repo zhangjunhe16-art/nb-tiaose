@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Color Reference & LUT Generator",
+  "description": "An advanced AI-powered tool for colorists to generate stylized grading references and matching .cube 3D LUTs based on video stills.",
+  "requestFramePermissions": []
+}
